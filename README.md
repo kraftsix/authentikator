@@ -3,7 +3,7 @@
 
 Authentikator is android mobile application for generating TOTPs. Authentikator's features are designed to help you improve your MFA OTP experience and help our users keep their accounts safe and secure. 
 
-Learn more about Authentikator on [Official Website]([https://](https://authentikator.kraftsix.com/).
+Learn more about Authentikator on [Official Website](https://authentikator.kraftsix.com/).
 
 ### Download the latest app from the Google PlayStore
 
